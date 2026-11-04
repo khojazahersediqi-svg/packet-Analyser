@@ -1,1 +1,2 @@
 # packet-Analyser
+A Python-based network packet analyzer for offline PCAP/PCAPNG inspection, protocol identification, IP traffic summaries, DNS query extraction, TCP flag analysis, and CSV reporting using Scapy.
