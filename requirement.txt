@@ -1,0 +1,3 @@
+Packet analysis library
+
+scapy>=2.5.0
